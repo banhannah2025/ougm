@@ -1,0 +1,3 @@
+## <b>Restricted Personal Items:</b>
+
+<p><b>Weapons of any kind are prohibited.</b> If the client declares possession of a weapon up front, the Mission will make a good faith effort to securely store the weapon when the safety of Mission staff will not be compromised. <b>Possession of any items of this sort may result in immediate eviction.</b> <b>No pornography of any kind will be allowed on the property.</b>

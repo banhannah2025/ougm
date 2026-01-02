@@ -1,0 +1,7 @@
+## <b>Drug Testing and Drug/ Alcohol Use:</b>
+
+<p><b>Camp Mercy is a drug and alcohol-Free Camp</b> - Drug or Alcohol possession or usage, including marijuana is strictly forbidden.</p> 
+<p>Camp Program Members are required to submit to urine or saliva drug testing as a condition for being a Program Member. <b>Any violation of this rule can result in being discharged from the Program and eviction.</b></p>
+<p>Additionally, no drug paraphernalia of any kind is allowed on the property. No Program Member shall be intoxicated or under the influence of drugs or alcohol on the property at any time. <b>The Olympia Union Gospel Mission reserves the right to request that a Program Members submit to a drug or alcohol screen at any time, with or without cause. Failure to comply with the request will be considered as if the screen had been positive and the Program Member will be discharged from the Program and evicted.</b></p> 
+<p>If a Program Member believes another Program Member is in possession of banned drugs or alcohol, or is under the influence of any substance at any time, Camp Staff must be  contacted immediately.</p>
+<p>It is everyone's responsibility to keep Camp Mercy safe. Failure to notify Staff of another Program Member's use of substances can result in immediate discharge.</p>

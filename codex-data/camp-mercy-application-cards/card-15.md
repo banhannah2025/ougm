@@ -1,0 +1,3 @@
+## <b>Smoking:</b>
+
+<p>Smoking inside a Tiny House is grounds for immediate eviction. Do not smoke within 25 feet of doorways. Ensure all cigarettes are extinguished carefully for safety, make sure all butts are disposed of properly and not on the ground. Failure to meet any of these requirements may result in your privilege to smoke on the property being revoked. Smoking policy may change without notice at any time.</p> 
