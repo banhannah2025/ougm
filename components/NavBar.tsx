@@ -56,9 +56,6 @@ export function NavBar() {
           <Button asChild variant="outline" size="sm">
             <a href="/apply">Camp Mercy Application</a>
           </Button>
-          <Button asChild variant="accent" size="sm">
-            <a href="#support">Donate</a>
-          </Button>
           <ThemeToggle />
           <SignedIn>
             <UserButton appearance={{ elements: { userButtonAvatarBox: "border border-border" } }} />
@@ -146,11 +143,6 @@ function MobileMenu() {
             <Dialog.Close asChild>
               <Button asChild className="w-full">
                 <a href="/apply">Camp Mercy Application</a>
-              </Button>
-            </Dialog.Close>
-            <Dialog.Close asChild>
-              <Button asChild variant="accent" className="w-full">
-                <a href="#support">Donate</a>
               </Button>
             </Dialog.Close>
           </div>

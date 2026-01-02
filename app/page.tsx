@@ -27,9 +27,6 @@ export default function Home() {
           <Button size="lg" asChild>
             <a href="/apply">Camp Mercy Application</a>
           </Button>
-          <Button size="lg" variant="accent" asChild>
-            <a href="#support">Donate</a>
-          </Button>
         </div>
       </section>
 
@@ -172,48 +169,6 @@ export default function Home() {
       </section>
 
       <section
-        id="support"
-        className="grid gap-6 rounded-3xl border border-border/70 bg-gradient-to-br from-card/90 via-card to-muted/70 p-6 shadow-sm sm:p-10 lg:grid-cols-[1.2fr_0.8fr]"
-      >
-        <div className="space-y-4">
-          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">
-            Partner with Camp Mercy
-          </p>
-          <h2 className="text-2xl font-semibold text-foreground sm:text-3xl">
-            Your generosity sustains safe housing, counseling, and next steps.
-          </h2>
-          <p className="text-base leading-relaxed text-muted-foreground">
-            Donations help maintain the tiny homes, fund counseling support, and provide resources
-            like transportation, employment coaching, and essentials for residents working toward
-            stability.
-          </p>
-          <div className="flex flex-col gap-3 sm:flex-row">
-            <Button asChild size="lg" variant="accent">
-              <a href="#support">Donate</a>
-            </Button>
-            <Button asChild size="lg" variant="outline">
-              <a href="mailto:info@ougm.org">Talk with OUGM</a>
-            </Button>
-          </div>
-        </div>
-        <div className="rounded-2xl border border-border/60 bg-card/90 p-5 shadow-sm">
-          <h3 className="text-lg font-semibold text-foreground">What your gift supports</h3>
-          <div className="mt-4 grid gap-3 text-sm text-muted-foreground">
-            {[
-              "Household upkeep and comfort in each tiny home.",
-              "Counseling sessions and sober community support.",
-              "Job readiness, budgeting help, and transportation to services.",
-            ].map((item) => (
-              <div key={item} className="flex items-start gap-2">
-                <span className="mt-1 inline-flex h-2 w-2 rounded-full bg-primary" />
-                <p>{item}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section
         id="apply"
         className="flex flex-col gap-5 rounded-3xl border border-border/70 bg-card/80 p-6 shadow-sm sm:flex-row sm:items-center sm:justify-between sm:p-10"
       >
@@ -232,9 +187,6 @@ export default function Home() {
         <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
           <Button asChild size="lg">
             <a href="#apply">Camp Mercy Application</a>
-          </Button>
-          <Button asChild size="lg" variant="secondary">
-            <a href="#support">Donate to the Program</a>
           </Button>
         </div>
       </section>
